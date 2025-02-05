@@ -9,14 +9,19 @@ This shell script provides a quick overview of the key system resources of a Lin
 - USAGE :-
 
     - Create the script file : 
+    
     ``` 
     nano resource_util.sh
     ```
+    
     - Provide executable permissions for the script :
+    
     ```
     chmod +x resource_util.sh
     ```
+    
     - Execute the script :
+    
     ```
     ./resource_util.sh
     ```
@@ -30,17 +35,23 @@ It prompts the user to enter the directory, file name pattern, and a string to f
 - USAGE :-
 
     - Create the script file : 
+    
     ``` 
     nano find_files.sh
     ```
+
     - Provide executable permissions for the script :
+    
     ```
     chmod +x find_files.sh
     ```
+    
     - Execute the script :
+    
     ```
     ./find_files.sh
     ```
+    
     - Enter the required fields.
 
 - EXAMPLE :-
